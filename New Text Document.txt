@@ -1,0 +1,16 @@
+C:\Program Files\PCL\include\pcl-1.7
+C:\Program Files\Boost\include
+C:\Program Files\flann\include
+C:\Program Files\OpenNI\Include
+C:\Program Files\qhull\include
+C:\Program Files\VTK 5.8.0\include\vtk-5.8
+C:\Qt\4.8.0\include
+C:\Program Files (x86)\Eigen\include
+
+C:\Program Files\PCL\lib
+C:\Program Files\Boost\lib
+C:\Program Files\flann\lib
+C:\Program Files\OpenNI\Lib64
+C:\Program Files\qhull\lib
+C:\Program Files\VTK 5.8.0\lib\vtk-5.8
+C:\Qt\4.8.0\lib
